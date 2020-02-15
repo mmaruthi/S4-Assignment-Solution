@@ -5,6 +5,7 @@ Target/ Solution : Acheived an accuracy of 99.39 in 15th Epoch.
 
 Approach : 
 1.MNIST is not a complex data set. So , Restricted my Kernels to 8, 16 and 32.
+
 2.So , Restricted my Kernels to 8, 16 and 32.It helped me get parameters at 16.5K 
 3.Built model in 4 layers using 8, 16 and 32 kernels. Scaled down using 1* 1 convolutions.
 4.Used Batch Normalization in every layer to normalize the data.
