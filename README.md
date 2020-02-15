@@ -13,6 +13,6 @@ Approach :
 7.Applied GAP to get 16 values from the last 16 channels. There on passed it to Fully connected layer to get 10 classes.
 8.Ran the model with learning rate of 0.03
 9.Changed Shuffle = True to Shuffle = False in Test data loaser . Felt it's not needed.
-10.Acheived an accuracy of 99.39 in 15th Epoch.
+10.Acheived an accuracy of 99.39 in 15th Epoch
 
 
