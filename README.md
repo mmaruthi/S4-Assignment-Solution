@@ -13,9 +13,9 @@ Approach :
 
 4.Used Batch Normalization in every layer to normalize the data.
 
-5.Used drop out with value 0.09 
+5.Used drop out with value 0.09 (Tried values from 0.02 to 0.8. This gave better results).
 
-6.Used Max pool 
+6.Used Max pooling
 
 7.Applied GAP to get 16 values from the last 16 channels. There on passed it to Fully connected layer to get 10 classes.
 
